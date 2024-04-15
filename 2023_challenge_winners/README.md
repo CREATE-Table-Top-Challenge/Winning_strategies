@@ -1,5 +1,5 @@
 # Winning_strategies
-This repository contains code and strategies from winning teams on the Central Line Challenge from previous years.
+This repository contains code and strategies from winning teams on the Central Line Challenge from 2023.  
 
 Subtask 1: Surgical tool localization / detection​
 - Implement and evaluate a method for detecting all surgical tools in each video frame ​
