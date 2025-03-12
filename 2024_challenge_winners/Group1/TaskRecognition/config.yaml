@@ -1,0 +1,13 @@
+class_mapping:
+  0: Cross-section
+  1: Long-axis
+  2: anesthetic
+  3: dilator
+  4: insert_catheter
+  5: insert_guidewire
+  6: insert_needle
+  7: nothing
+  8: remove_guidewire
+  9: scalpel
+device: cuda
+num_features: 128
