@@ -9,7 +9,7 @@ Subtask 1: Surgical tool localization / detection​
 Subtask 2: Workflow recognition​
 - Implement and evaluate a method for recognizing the task that is being performed​
 - Output: the algorithm should produce a single task label
-- Winner: Group 1
+- Winner: Group 2 (remove group 1 for incomplete)
 
 Subtask 3: Ultrasound Segmentation
 - Implement and evaluate a method using foundation models to segment the ultrasound probe
