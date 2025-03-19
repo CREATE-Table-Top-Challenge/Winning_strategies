@@ -14,4 +14,4 @@ Subtask 2: Workflow recognition​
 Subtask 3: Ultrasound Segmentation
 - Implement and evaluate a method using foundation models to segment the ultrasound probe
 - Output: the algorithm should produce a single NumPy array for each segmentation
-- Winner: Group 2
+- Winner: Group 3 (double check for complete ReadMe)
