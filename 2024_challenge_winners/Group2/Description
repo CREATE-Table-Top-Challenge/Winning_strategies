@@ -1,5 +1,0 @@
-1. Visualizer: a tool to see the frames in a video. The bouding box information and phase name are shown. This should allow a fast overview of the videos and their important features.
-   - After downloading data, try it with part1 data, it plays the videos one-by-one, once the videos ended playing, press any key to start playing the next video
-   - You can press 'N' any time to skip to the next video
-   - You can press 'Q' any time to quit visualizer, closing the window won't help
-   - You can press 'P' any time to pause and the press any key to continue
